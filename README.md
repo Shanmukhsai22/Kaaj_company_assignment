@@ -154,3 +154,14 @@ The application includes error handling for:
 
 - MacOS users should use port 5001 for the backend server
 - Maximum of 500 results per search (Florida Secretary of State limitation)
+
+  ## Frontend overview
+
+![image](https://github.com/user-attachments/assets/6af83f2a-0a1e-4736-831f-cb7a54a1ebfc)
+![image](https://github.com/user-attachments/assets/e1dfb453-a36e-43a1-8071-a49be96f546d)
+![image](https://github.com/user-attachments/assets/52bd45bd-ee20-41f2-9ea2-3e772c823a9b)
+![image](https://github.com/user-attachments/assets/dd39c0e6-ab69-42c2-a81b-226145ac9d1d)
+
+
+
+
