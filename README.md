@@ -88,7 +88,7 @@ python main.py
 
 1. Install dependencies:
 ```bash
-cd react-app
+cd frontend
 npm install
 ```
 
