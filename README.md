@@ -29,7 +29,7 @@ A web application that allows users to search and retrieve business information 
 ```
 react-app/                      # Root directory
 │
-├── react-app/                  # Frontend subdirectory
+├── frontend/                  # Frontend subdirectory
 │   ├── public/                 # Public assets
 │   ├── src/                    # Source files
 │   │   ├── components/         # React components
