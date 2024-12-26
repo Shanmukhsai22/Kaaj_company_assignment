@@ -1,4 +1,4 @@
-# Florida Business Search Project
+# Florida Business Search Web Scrapping Project
 
 A web application that allows users to search and retrieve business information from the Florida Secretary of State website. The project consists of a Python/Flask backend with Playwright for web scraping, a Supabase database for storage, and a React frontend for the user interface.
 
@@ -154,4 +154,3 @@ The application includes error handling for:
 
 - MacOS users should use port 5001 for the backend server
 - Maximum of 500 results per search (Florida Secretary of State limitation)
-- Some business documents require payment and cannot be accessed
