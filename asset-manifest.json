@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shanmukhsai22.github.io/kaaj_company_assignment/static/css/main.6c8a528a.css",
+    "main.js": "/Shanmukhsai22.github.io/kaaj_company_assignment/static/js/main.df519f31.js",
+    "index.html": "/Shanmukhsai22.github.io/kaaj_company_assignment/index.html",
+    "main.6c8a528a.css.map": "/Shanmukhsai22.github.io/kaaj_company_assignment/static/css/main.6c8a528a.css.map",
+    "main.df519f31.js.map": "/Shanmukhsai22.github.io/kaaj_company_assignment/static/js/main.df519f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c8a528a.css",
+    "static/js/main.df519f31.js"
+  ]
+}
